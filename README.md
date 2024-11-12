@@ -7,17 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamun-akand&label=Profile%20views&color=0e75b6&style=flat" alt="mamun-akand" /> </p>
 
-- 🔭 I’m currently working on [Responsive E-Commerce - LIVE](https://buyexpress-ecommerce.netlify.app/)
+- 🔭 I’m currently working on Social Media Application.
 
 - 🌱 I’m currently learning **C#, .NET, Javascript**
 
-- 👨‍💻 All of my projects are available at [My Project and Works](https://t.ly/pU6hm)
-
 - 💬 Ask me about **Competitive Programming | Problem Solving | Data Structure | Algorithm | Database(MySQL) |C,C++| OOP**
 
-- 📧 How to reach me **mamun.crick25@gmail.com**
+- 📧 How to reach me **labibshahriar028@gmail.com**
 
-- ⚡ Fun fact **I would love to meet new people, Let's know each other.**
+- ⚡ Fun fact **I would like to meet new people, Let's know each other.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
