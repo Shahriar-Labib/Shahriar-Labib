@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on Social Media Application.
 
-- 🌱 I’m currently learning **C#, .NET, Javascript**
+- 🌱 I’m currently learning **Java, Spring Boot, Javascript**
 
 - 💬 Ask me about **Competitive Programming | Problem Solving | Data Structure | Algorithm | Database(MySQL) |C,C++| OOP**
 
